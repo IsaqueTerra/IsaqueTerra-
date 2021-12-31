@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Isaque Terra 😉
 
-- 🖥️ Estudos atuais focados em .Net e Java
-
 
 <div align="center">
   <a href="https://github.com/isaqueterra">
