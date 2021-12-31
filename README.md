@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Isaque Terra 😉
 
 - 🎓 Cursando Analise e Desenvolvimento de Sistemas
-- 🖥️ Estudos atuais focados em .net e java
+- 🖥️ Estudos atuais focados em .Net e Java
 - 📧 Contate-me no email: terraisaque@gmail.com
 
 <div align="center">
